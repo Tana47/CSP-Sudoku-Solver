@@ -35,5 +35,5 @@ The solver employs two primary AI strategies to find the solution:
    ```
 3. Run the solver:
    ```bash
-   python solver.py
+   python CSP-Sudoku-Solver.py
    ```
